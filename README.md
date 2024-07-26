@@ -12,8 +12,8 @@ This script combines the contents of two text files (`Backside_results.txt` and 
 3. The combined and filtered results will be saved to Filtered_results.txt.
    
 4. Parameters Extracted:
-    Component ID
-    Component Material
-    Component Thickness (in mm)
-    Flatness
+    Component ID, 
+    Component Material, 
+    Component Thickness (in mm), 
+    Flatness, 
     Component Passed (boolean value: true/false)
